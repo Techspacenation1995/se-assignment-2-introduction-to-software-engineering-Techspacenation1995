@@ -13,11 +13,15 @@ Software engineering is a systematic, disciplined, and quantifiable approach to 
 What is software engineering, and how does it differ from traditional programming?
 
 **1. Scope and Focus:**
+
 **Software Engineering**: Focuses on the entire lifecycle of software development, from initial concept to long-term maintenance and evolution. It considers broader aspects such as project management, quality assurance, and user needs.
+
 **Traditional Programming:** Primarily focuses on the act of writing code to solve specific problems or implement specific functionalities.
 
 **2. Methodologies:**
+
 **Software Engineering**: Utilizes structured methodologies like Agile, Scrum, Waterfall, and DevOps to manage complex projects, ensure consistency, and facilitate collaboration among team members.
+
 **Traditional Programming**: May follow less formal practices, often relying on individual or small team efforts without the same level of structured process.
 **3. Collaboration and Teamwork:**
 **Software Engineering**: Emphasizes teamwork and collaboration among various roles including developers, testers, project managers, business analysts, and stakeholders.
