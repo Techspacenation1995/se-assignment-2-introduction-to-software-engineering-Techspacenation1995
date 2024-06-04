@@ -23,8 +23,11 @@ What is software engineering, and how does it differ from traditional programmin
 **Software Engineering**: Utilizes structured methodologies like Agile, Scrum, Waterfall, and DevOps to manage complex projects, ensure consistency, and facilitate collaboration among team members.
 
 **Traditional Programming**: May follow less formal practices, often relying on individual or small team efforts without the same level of structured process.
+
 **3. Collaboration and Teamwork:**
+
 **Software Engineering**: Emphasizes teamwork and collaboration among various roles including developers, testers, project managers, business analysts, and stakeholders.
+
 **Traditional Programming**: Often involves individual or small group work, with less emphasis on formal collaboration and communication practices.
 
 Software Development Life Cycle (SDLC):
@@ -33,11 +36,14 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 **1. Requirement Analysis**
 Objective: Gather and analyze the requirements from stakeholders and document them.
+
 Activities:
 Conducting interviews, surveys, and meetings with stakeholders.
 Analyzing business needs and user expectations.
 Creating detailed requirement specifications.
+
 **2. System Design**
+
 Objective: Define the system architecture and design to meet specified requirements.
 Activities:
 Developing high-level design (architecture) and detailed design.
