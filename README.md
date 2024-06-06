@@ -45,54 +45,92 @@ Creating detailed requirement specifications.
 **2. System Design**
 
 Objective: Define the system architecture and design to meet specified requirements.
+
 Activities:
 Developing high-level design (architecture) and detailed design.
 Creating design documents, data models, and user interfaces.
 Planning system and software architecture.
+
 **3. Implementation (Coding)**
+
 Objective: Convert the design documents into the actual software code.
+
 Activities:
 Writing and compiling code in the chosen programming language.
 Developing individual components and integrating them.
 Ensuring adherence to coding standards and guidelines.
+
 **4. Testing**
+
 Objective: Identify and fix defects in the software to ensure it meets the required quality standards.
+
 Activities:
 Performing various types of testing (unit, integration, system, acceptance).
 Identifying, reporting, and resolving bugs and issues.
 Validating that the software functions as expected.
+
 **5. Deployment**
+
 Objective: Release the software for use in a production environment.
+
 Activities:
 Planning and executing deployment strategies.
 Configuring the software in the target environment.
 Conducting user training and providing documentation.
+
 **6. Maintenance**
+
 Objective: Update and improve the software post-deployment to fix bugs, add new features, and ensure continued performance.
+
 Activities:
 Monitoring software performance and user feedback.
 Providing bug fixes and security patches.
 Enhancing and updating the software based on user needs and technological advancements.
+
 **7. Evaluation**
+
 Objective: Assess the software development process and the final product to ensure that all goals were met and to identify areas for improvement.
+
 Activities:
 Reviewing the project to ensure it met business objectives and user requirements.
 Gathering feedback from stakeholders and users.
 Analyzing lessons learned to improve future projects.
 
 **Brief Description of Each Phase:**
-Requirement Analysis: Understanding and documenting what the software needs to achieve.
-System Design: Planning the architecture and detailed design of the system.
-Implementation (Coding): Writing the code to create the software.
-Testing: Ensuring the software is free from defects and meets the requirements.
-Deployment: Installing and configuring the software for use in a real-world environment.
-Maintenance: Updating and improving the software over time.
-Evaluation: Reviewing the overall process and product for effectiveness and areas of improvement.
+
+**Requirement Analysis**: Understanding and documenting what the software needs to achieve.
+
+**System Design**: Planning the architecture and detailed design of the system.
+
+**Implementation (Coding)**: Writing the code to create the software.
+
+**Testing**: Ensuring the software is free from defects and meets the requirements.
+
+**Deployment**: Installing and configuring the software for use in a real-world environment.
+
+**Maintenance**: Updating and improving the software over time.
+
+**Evaluation**: Reviewing the overall process and product for effectiveness and areas of improvement.
 
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
+
+**Agile Model**
+
+**Key Characteristics**:
+
+**Iterative and Incremental**: Agile breaks the project into small, manageable units called sprints or iterations, typically lasting 2-4 weeks.
+
+**Flexibility**: Changes can be easily accommodated at any stage of the development process.
+
+**Customer Collaboration**: Continuous customer feedback is integral, ensuring the product meets user needs.
+
+**Cross-functional Teams**: Emphasizes collaboration among diverse team members, including developers, testers, and business analysts.
+
+**Continuous Improvement**: Regular retrospectives are conducted to improve processes and products.
+
+#Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
