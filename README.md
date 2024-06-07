@@ -8,7 +8,7 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
-Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It encompasses a range of methodologies, techniques, and tools to design, develop, test, and maintain software systems efficiently and effectively. The primary goal of software engineering is to produce high-quality software that meets or exceeds user expectations, is reliable, and is maintainable, while also being delivered on time and within budget.
+1. Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It encompasses a range of methodologies, techniques, and tools to design, develop, test, and maintain software systems efficiently and effectively. The primary goal of software engineering is to produce high-quality software that meets or exceeds user expectations, is reliable, and is maintainable, while also being delivered on time and within budget.
 
 What is software engineering, and how does it differ from traditional programming?
 
